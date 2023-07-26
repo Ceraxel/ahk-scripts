@@ -1,4 +1,5 @@
-﻿;Capslock to escape and ctrl
+﻿Esc::Capslock
+;Capslock to escape and ctrl
 g_LastCtrlKeyDownTime := 0
 g_AbortSendEsc := false
 g_ControlRepeatDetected := false
